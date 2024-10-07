@@ -1,0 +1,35 @@
+.flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.bg-container {
+  background-color: #f1f5f8;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.card-container {
+  background-color: #ffffff;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 20px;
+  border-radius: 20px;
+}
+.li {
+  list-style: none;
+  border: 1px solid #d7dae6;
+  padding: 20px;
+  border-radius: 20px;
+  margin-bottom: 14px;
+}
+.heading {
+  font-size: 14px;
+  max-width: 390px;
+}
+.button {
+  border: 0px solid;
+  background: transparent;
+}
